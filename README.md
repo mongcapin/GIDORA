@@ -8,7 +8,7 @@ Project Status: Completed
 ## Installation
 pip install torch torchvision numpy matplotlib
 
-jupyter notebook main.ipynb
+jupyter notebook GIDORA.ipynb
 
 ## Purpose
 GIDORA is a multi-task deep learning perception system designed to demonstrate a partially self-organizing architecture for robotics and autonomous systems. 
