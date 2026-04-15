@@ -24,7 +24,7 @@ Matthew Ongcapin
   - Obstacle detection  
   - Geometric terrain estimation  
 
-- **Shared CNN Backbone (EfficientNet)**  
+- **Shared CNN Backbone**  
   Efficient feature extraction across all tasks
 
 - **Self-Organizing Architecture**
